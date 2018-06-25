@@ -21,22 +21,22 @@ https://github.com/flutter/flutter/search?q=path%3Aexamples+new+foo
 
 Available examples include:
 
-- **Hello, world** The [hello world app](hello_world) is a basic app that shows
+- **Hello, world** - The [hello world app](hello_world) is a basic app that shows
   the text "hello, world."
 
-- **Flutter gallery** The [flutter gallery app](flutter_gallery) showcases
+- **Flutter gallery** - The [flutter gallery app](flutter_gallery) showcases
   Flutter's widgets, including its implementation of
   [material design](https://material.google.com/).
 
-- **Platform Channel** The [platform channel app](platform_channel)
+- **Platform Channel** - The [platform channel app](platform_channel)
   demonstrates how to connect a Flutter app to platform-specific APIs. For
   documentation, see <https://flutter.io/platform-channels/>.
 
-- **Platform Channel Swift** The [platform channel swift app](platform_channel_swift)
+- **Platform Channel Swift** - The [platform channel swift app](platform_channel_swift)
   is the same as [platform channel](platform_channel) but the iOS version is in
   Swift and there is no Android version.
 
-- **Flutter View** The [flutter view app](flutter_view) demonstrates how to
+- **Flutter View** - The [flutter view app](flutter_view) demonstrates how to
   embed Flutter within an iOS or Android app.
 
 - **Layers** The [layers vignettes](layers) show how to use the various layers
